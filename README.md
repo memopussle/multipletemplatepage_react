@@ -8,6 +8,7 @@ npm install
 npx babel --watch src --out-dir . --presets react-app/prod //watch babel compiler in src/ file and run the code in the root directory 
 
 ```
-2. index.html and press.html i sharing same custom components from template.js
+2. Goal: demonstrate **Re-usability of React cmponents accross multipage websites.**
 
-**Re-usability of React cmponents accross multipage websites.**
+- Index.html and Press.html are sharing same custom components (Navbar, Sidebar, Footer, Template) from template.js
+
